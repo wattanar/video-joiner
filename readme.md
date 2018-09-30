@@ -13,7 +13,7 @@ Bat script for merge your video file in single command.
 ## Usage
 
 ```
-C:\video-joner.bat output.mp4
+video-joner.bat output.mp4
 ```
 
 From this command video will joined and filename is **output.mp4** but you can change it to the name you want.
